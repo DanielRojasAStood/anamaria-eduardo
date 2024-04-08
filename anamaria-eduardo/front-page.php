@@ -3,7 +3,7 @@
 <body>
   <main>
 
-    <h1>Front Page</h1>
+    <h1>Front Page..</h1>
     <!-- Modals -->
     <section class="modal" style="display: none" data-modal="modal-1">
       <div class="modal__wrapper">
